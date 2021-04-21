@@ -34,5 +34,6 @@ public class Actividad1If {
              int diferencia = año - 2021;
              System.out.println("Faltan :" + diferencia + " años para llegar a ese año");
     }
-    
+    }
+   
 }
